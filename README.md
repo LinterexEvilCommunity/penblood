@@ -76,8 +76,8 @@ Text To Hash //NEW
 # Installation
 Any Python Version.
 
-$ git clone https://github.com/cr4shcod3/pureblood 
-$ cd pureblood 
+$ git clone https://github.com/LinterexEvilCommunity/penblood
+$ cd penblood 
 $ pip install -r requirements.txt 
 ---------------------------------------------------------------------------------------------
 if You Like Can Pay me.... 
