@@ -1,8 +1,8 @@
-#{ PEN Blood v2}
+# PEN Blood v2
 ----------------------------------------------------------------------------------------------
 License Compatible Python2x Python3x
 ---------------------------------------------------------------------------------------------
-{A Penetration Testing Framework created for Hackers / Pentester / Bug Hunter}
+A Penetration Testing Framework created for Hackers / Pentester / Bug Hunter
 
 Menu
 Web Pentest / Information Gathering:
@@ -43,10 +43,10 @@ Deface Page
 Password Generator // NEW
 Text To Hash //NEW
 ---------------------------------------------------------------------------------------------
-{Author's Words:}
+# Author's Words:
 This project is managed / enhanced everyday and sorry if it takes a while before another version is published. Well, I'm the only one who is managing this and also I have personal daily activities. This tool is for everyone. So please open an issue if you run into a bug. Well I can only test it in Windows and Kali Linux since that's the only device I have. Also please try the new AUTO SQL Injection that I'm proud of currently. I created a video already on how I created it. Check it out on my Youtube Channel. The WPScan is also checked for Windows and Kali Linux. If you are using other Linux Distro please add wpscan in your ~/.bashrc.
 ---------------------------------------------------------------------------------------------
-{Installation}
+# Installation
 Any Python Version.
 
 $ git clone https://github.com/cr4shcod3/pureblood 
