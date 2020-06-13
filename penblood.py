@@ -13,7 +13,7 @@ Copyrights:
     LinterexEvil Community 2020
     MIT LICENSE
 Special Mentions:
-    PureHackers PH
+    PenHackers PH
     Blood Security Hackers
     LinterexEvil Community     
 """
@@ -1602,7 +1602,7 @@ def banner():
      {2}--={3}[ {0}{5}Author: LinterexEvilCommunity            {3}]{2}=--
 {4}| {2}-- --={3}[ {0}{5}Version: 2                            {3}]{2}=-- -- {4}|
 | {2}-- --={3}[ {0}{5}Website: https://github.com/LinterexEvilCommunity {3}]{2}=-- -- {4}|
-| {2}-- --={3}[ {0}{5}PureHackers ~ Blood Security Hackers  {3}]{2}=-- -- {4}|
+| {2}-- --={3}[ {0}{5}PenHackers ~ Blood Security Hackers  {3}]{2}=-- -- {4}|
 {0}
 
 
@@ -1623,7 +1623,7 @@ def banner():
      {2}--={3}[ {0}{5}Author: LinterexEvilCommunity                     {3}]{2}=--
 {4}| {2}-- --={3}[ {0}{5}Version: 2                            {3}]{2}=-- -- {4}|
 | {2}-- --={3}[ {0}{5}Website: https://github.com/LinterexEvilCommunity{3}]{2}=-- -- {4}|
-| {2}-- --={3}[ {0}{5}PureHackers ~ Blood Security Hackers  {3}]{2}=-- -- {4}|
+| {2}-- --={3}[ {0}{5}penHackers ~ Blood Security Hackers  {3}]{2}=-- -- {4}|
 {0}
 
 
@@ -1641,7 +1641,7 @@ def banner():
      {2}--={3}[ {0}{5}Author: LinterexEvilCommunity                    {3}]{2}=--
 {4}| {2}-- --={3}[ {0}{5}Version: 2                            {3}]{2}=-- -- {4}|
 | {2}-- --={3}[ {0}{5}Website: https://github.com/LinterexEvilCommunity {3}]{2}=-- -- {4}|
-| {2}-- --={3}[ {0}{5}PureHackers ~ Blood Security Hackers  {3}]{2}=-- -- {4}|
+| {2}-- --={3}[ {0}{5}PenHackers ~ Blood Security Hackers  {3}]{2}=-- -- {4}|
 {0}
 
 
@@ -1657,7 +1657,7 @@ def banner():
      {2}--={3}[ {0}{5}Author: LinterexEvilCommunity                     {3}]{2}=--
 {4}| {2}-- --={3}[ {0}{5}Version: 2                            {3}]{2}=-- -- {4}|
 | {2}-- --={3}[ {0}{5}Website: https://github.com/LinterexEvilCommunity {3}]{2}=-- -- {4}|
-| {2}-- --={3}[ {0}{5}PureHackers ~ Blood Security Hackers  {3}]{2}=-- -- {4}|
+| {2}-- --={3}[ {0}{5}PenHackers ~ Blood Security Hackers  {3}]{2}=-- -- {4}|
 {0}
 
 
